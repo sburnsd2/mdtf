@@ -1,7 +1,7 @@
 displayName: AUKUS Integration
 description: AUKUS Integration
 category:
-- Sensor
+- 7th Fleet
 type: catalog
 allowMultipleInstances: false
 scope:
