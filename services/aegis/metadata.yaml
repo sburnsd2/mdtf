@@ -1,0 +1,25 @@
+displayName: AEGIS Integration
+description: AEGIS Integration
+category:
+- 7TH Fleet
+type: catalog
+allowMultipleInstances: false
+scope:
+- workspace
+overview: |-
+  ## Revision Notes 
+  Here are some notes on THAAD AN/TPY2 6.0
+
+  ## Installation
+  Here is a link to documnetation for installation assistance that may be specialized for your environment.
+
+  ## THAAD AN/TPY2
+  The Army Navy/Transportable Radar Surveillance and Control Model 2, or AN/TPY-2, is a transportable X-band, high-resolution, phased-array radar designed specifically for missile defense. The AN/TPY-2 is capable of tracking multiple classes of missiles and identifying small objects at long distances. In the forward-based mode, this radar plays a vital role in the missile defense system by acting as a forward based sensor, detecting missiles early in their flight and providing precise tracking information for use by the system. Use of multiple sensors provides overlapping sensor coverage, expands the missile defense system battle space, and complicates an enemy's ability to penetrate the defense system. In the terminal mode, the same radar provides surveillance, track, discrimination and fire control support for the Terminal High Altitude Area Defense (THAAD) weapon system.
+  
+  ## Operations
+  Operating in concert, these systems control battery launch operations and transfer fire control information from the AN/TPY-2 radar to the larger Command, Control, Battle Management, and Communications (C2BMC) network. By connecting with C2BMC, THAAD can exchange tracking data with Aegis, GMD, and Patriot missile defense. MDA first demonstrated a THAAD-cued Patriot intercept in 2020.17
+  
+  ## PM Contact Information
+  TFCC_60_Fieldenablement@thaad.mda.mil
+
+icon: PHN2ZyB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTQyLjY3IDI4LjM5di0xLjNoLS4zM3YtMS42NGgtOC43N3YtLjg1aC0zLjE5djEuODloLTMuMjhsLS42NS02LjA5di0xLjY1bC43Ni0uMzN2LS40MmgtLjM4bC0uMDcuMzNoLS40MXYtLjY2bC44Ni0xLjE0aC0uODZ2LTIuMDloLS4zN3YyaC0uODhsLjc0IDEuMTh2MmgtLjYzdi0xLjI0aC0uNDd2LS41MWgtLjgzdi42aC0uNDZ2MS4yaC0uNTF2M2ExNC4yOSAxNC4yOSAwIDAgMSAtMS42NC4zM3YtMmgtLjM4djJhMTAuMzYgMTAuMzYgMCAwIDEgLTEuMTIuMDd2LjMyaC0uMjh2LTMuMTRoLS4zN3YzLjE2aC0xLjc1di45aDQuNDh2MS4xNGgtMi40OGwtMS41NyAyaC0xLjJ2LS42OWgtMy40MmwtLjM3IDEuNDhoLTEuMDZ2LTEuMDVhMS40MyAxLjQzIDAgMCAwIC0xLjM0LS44OCAxLjQxIDEuNDEgMCAwIDAgLTEuMjkgMS4wNnYuODNoLTkuMTVsNS40IDUuMzZoNDAuODRsMS43Ni0zLjMxdi0xLjg0eiIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==
