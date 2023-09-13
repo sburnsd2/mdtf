@@ -1,7 +1,7 @@
 displayName: NFIRE 
 description: Near Field InfraRed Experiment
 category:
-- 7th Fleet
+- Sensor
 type: catalog
 allowMultipleInstances: false
 scope:
