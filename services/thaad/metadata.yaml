@@ -1,7 +1,7 @@
 displayName: THAAD TFCC 
 description: THAAD Fire Control and Communications (TFCC) 6.0
 category:
-- THAAD TFCC 6.0
+- Joint Fires
 type: catalog
 allowMultipleInstances: false
 scope:
