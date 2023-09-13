@@ -1,7 +1,7 @@
 displayName: ATAK
 description: SOCOM Android Team Awareness Kit
 category:
-- Fires
+- Joint Fires
 type: catalog
 allowMultipleInstances: true
 scope:
