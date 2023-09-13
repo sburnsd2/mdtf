@@ -1,7 +1,7 @@
 displayName: AFATDS 
 description: Advanced Field Artillery Tactical Data System 
 category:
-- HIMARS
+- Fires
 type: catalog
 allowMultipleInstances: true
 scope:
